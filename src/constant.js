@@ -29,7 +29,7 @@ import vjcetLogo from './assets/school_logo/vjcet.jpg';
 import camerinLogo from './assets/experience/camerin.png';
 
 import roomForge from './assets/project_pics/RoomForge.png';
-import vrExpo from './assets/project_pics/vrExpo.png';
+import vrExpo from './assets/project_pics/VrExpo.png';
 
 import carSimulator from './assets/project_pics/CarSim.png';
 
