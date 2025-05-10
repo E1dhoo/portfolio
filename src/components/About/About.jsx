@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import Tilt from "react-parallax-tilt";
-import profileImage from "../../assets/img22.png";
+import profileImage from "../../assets/shin.jpg";
 import logoImage1 from "../../assets/logoimg.png";
 
 const About = () => {
@@ -107,11 +107,11 @@ const About = () => {
             scale={1.05}
             transitionSpeed={1000}
             gyroscope={true}
-            className="w-80 h-80 sm:w-96 sm:h-96 md:w-112 md:h-112 border-4 border-purple-700 rounded-lg"
+            className="w-90 h-80 sm:w-96 sm:h-96 md:w-112 md:h-112 border-4 border-purple-700 rounded-lg"
           >
             <img
               src={profileImage}
-              alt="Eldho T"
+              alt="Eldho T Babu"
               className="w-full h-full rounded-lg object-cover drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)]"
             />
           </Tilt>
