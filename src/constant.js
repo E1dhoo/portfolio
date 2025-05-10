@@ -136,7 +136,7 @@ export const education = [
       description:
         "Built a beginner-friendly VR application using Unity3D, featuring three immersive modules: a mini-game,a 360° experience, and a 3D model display. Designed intuitive scene transitions and user navigation to enhance accessibility and engagement across multiple VR experiences.",
       image: vrExpo,
-      tags: ["Unreal", "C#", "Blender"],
+      tags: ["Unity", "C#", "Blender"],
       github:"https://github.com/E1dhoo/VR-Expo",
     },
     {
