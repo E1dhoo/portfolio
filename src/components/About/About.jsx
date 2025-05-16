@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import Tilt from "react-parallax-tilt";
-import profileImage from "../../assets/shin.jpg";
+import profileImage from "../../assets/eldhot.jpg";
 import logoImage1 from "../../assets/logoimg.png";
 
 const About = () => {
